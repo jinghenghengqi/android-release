@@ -1,1 +1,1 @@
-{"versionCode":5,"versionName":"1.1","downloadUrl":"https://raw.githubusercontent.com/jinghenghengqi/android-release/master/app-release.apk","changelogEN":"improve query history ui|support setup multiple query history condition|support export query result to excel","changelogZH":"优化查询历史条件设置页面|支持设置多种查询历史条件|支持导出到 Excel"}
+{"versionCode":6,"versionName":"1.1.1","downloadUrl":"https://raw.githubusercontent.com/jinghenghengqi/android-release/master/app-release.apk","changelogEN":"fix can not share exported excel file to wechat","changelogZH":"修复导出的 Excel 文件无法分享到微信"}
