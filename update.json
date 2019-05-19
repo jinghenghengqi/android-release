@@ -1,1 +1,1 @@
-{"versionCode":6,"versionName":"1.1.1","downloadUrl":"https://raw.githubusercontent.com/jinghenghengqi/android-release/master/app-release.apk","changelogEN":"fix can not share exported excel file to wechat","changelogZH":"修复导出的 Excel 文件无法分享到微信"}
+{"versionCode":7,"versionName":"1.1.2","downloadUrl":"https://raw.githubusercontent.com/jinghenghengqi/android-release/master/app-release.apk","changelogEN":"fix can not share exported excel file in android 7 or later","changelogZH":"修复在 Android 7 或者更新的版本中导出的 Excel 文件无法分享"}
