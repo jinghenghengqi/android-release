@@ -1,1 +1,1 @@
-{"versionCode":8,"versionName":"1.1.2","downloadUrl":"http://39.98.52.43:1010/downloads/app-release.apk","changelogEN":"fix can not share exported excel file in android 7 or later","changelogZH":"修复在 Android 7 或者更新的版本中导出的 Excel 文件无法分享"}
+{"versionCode":9,"versionName":"1.1.3","downloadUrl":"http://39.98.52.43:1010/downloads/app-release.apk","changelogEN":"optimize main view;support new static device","changelogZH":"优化主界面数据显示;支持新版静态称"}
